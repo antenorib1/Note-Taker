@@ -15,8 +15,6 @@ This application allows the user to take notes, save notes, and delete notes. Th
 
 * [Usage](#Usage)
 
-* [Contributions](#Contributions)
-
 * [Testing](#Testing)
 
 * [Questions](#Questions)
